@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scientific Illustrator Workbench"
+  short_description: "科研图意规划、原生矢量绘制与 Illustrator MCP 操作及交付检查"
+  default_prompt: "使用 $scientific-illustrator-workbench 在 Adobe Illustrator 中制作可编辑科研图，并检查实际导出结果。"
+policy:
+  allow_implicit_invocation: true

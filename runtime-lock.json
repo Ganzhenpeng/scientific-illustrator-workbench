@@ -1,0 +1,10 @@
+{
+  "package": "illustrator-mcp-server",
+  "version": "1.10.3",
+  "repository": "https://github.com/ie3jp/illustrator-mcp-server",
+  "gitHead": "57c5c101a5192c61535493f39b653e6f92b8eb29",
+  "tarball": "https://registry.npmjs.org/illustrator-mcp-server/-/illustrator-mcp-server-1.10.3.tgz",
+  "integrity": "sha512-HDhl3dgYKbOV3qcl+6X73zVjEOGvBgtOoxcbMXWxHH5e+3ZJxkt3v9RosjgO5q5SKO8/YoIogIZxiqYJZLXC2Q==",
+  "license": "MIT",
+  "entry": "dist/bundle.cjs"
+}

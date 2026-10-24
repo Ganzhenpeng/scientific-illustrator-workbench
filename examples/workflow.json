@@ -1,0 +1,13 @@
+{
+  "title": "From periodic structure to recovered fields",
+  "subtitle": "A schematic workflow with editable geometry and text",
+  "canvas": {"width": 1200, "height": 620},
+  "style": {"font": "ArialMT", "fontSize": 20},
+  "nodes": [
+    {"id": "cell", "title": "Unit cell", "subtitle": "Geometry and materials", "icon": "cell"},
+    {"id": "bloch", "title": "Bloch problem", "subtitle": "Specified wave number", "icon": "wave"},
+    {"id": "model", "title": "Effective model", "subtitle": "Coupled response fields", "icon": "fields"},
+    {"id": "recover", "title": "Field recovery", "subtitle": "Microscale distribution", "icon": "fields"}
+  ],
+  "sourceNote": "Synthetic illustration only. Curves and colours carry no numerical validation."
+}

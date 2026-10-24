@@ -1,0 +1,13 @@
+.runtime/
+output/
+validation/
+node_modules/
+*.log
+*.ai
+*.pdf
+*.zip
+.env
+.env.*
+__pycache__/
+Thumbs.db
+.DS_Store

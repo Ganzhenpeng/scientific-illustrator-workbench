@@ -1,0 +1,10 @@
+{
+  "name": "scientific-illustrator-workbench",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Personal scientific Illustrator skill: evidence-led design, native vector editing and verified MCP execution",
+  "license": "MIT",
+  "engines": {"node": ">=20"},
+  "scripts": {"test": "node --test tests/*.test.mjs"}
+}
